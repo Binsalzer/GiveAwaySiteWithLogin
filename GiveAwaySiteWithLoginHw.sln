@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GivaeAwaySiteWithLoginHw.Web", "GivaeAwaySiteWithLoginHw.Web\GivaeAwaySiteWithLoginHw.Web.csproj", "{B41D301B-E95D-45FD-B505-75B02458B617}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiveAwayWithLoginHw.Data", "GiveAwayWithLoginHw.Data\GiveAwayWithLoginHw.Data.csproj", "{21F04D66-6917-4B13-B180-8AD197D92CFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B41D301B-E95D-45FD-B505-75B02458B617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B41D301B-E95D-45FD-B505-75B02458B617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B41D301B-E95D-45FD-B505-75B02458B617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B41D301B-E95D-45FD-B505-75B02458B617}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21F04D66-6917-4B13-B180-8AD197D92CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F04D66-6917-4B13-B180-8AD197D92CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F04D66-6917-4B13-B180-8AD197D92CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F04D66-6917-4B13-B180-8AD197D92CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {425E51F3-206F-415A-B374-01BDC4509B64}
+	EndGlobalSection
+EndGlobal
